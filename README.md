@@ -125,7 +125,7 @@ Traney/
 
 7. How to Run the Application
   Step 1: Install Required Libraries
-    pip install pillow tkcalendar
+    pip install pillow tkcalendar requests
     *Note: Tkinter typically comes pre-installed with Python. If you encounter issues, you may need to install it separately depending on your operating system.*
      
   Step 2: Run the Application
