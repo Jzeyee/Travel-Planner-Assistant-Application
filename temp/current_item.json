@@ -1,0 +1,34 @@
+{
+  "id": "CAR001",
+  "name": "Toyota Camry",
+  "location": "Kuala Lumpur, Malaysia",
+  "type": "Sedan",
+  "brand": "Toyota",
+  "model_year": 2023,
+  "price": 159,
+  "discount_price": 139,
+  "currency": "RM",
+  "unit": "/day",
+  "rating": 4.7,
+  "transmission": "Automatic",
+  "seats": 5,
+  "image_file": "car_recommend.jpg",
+  "tag": "Economical",
+  "features": [
+    "Fuel Efficient",
+    "GPS Navigation",
+    "Bluetooth",
+    "Air Conditioning",
+    "USB Ports"
+  ],
+  "description": "Reliable and fuel-efficient sedan perfect for city driving and road trips.",
+  "fuel_type": "Petrol",
+  "mileage": "Unlimited",
+  "insurance": "Comprehensive",
+  "pickup_locations": [
+    "KUL Airport",
+    "Downtown KL",
+    "KL Sentral"
+  ],
+  "category": "car"
+}

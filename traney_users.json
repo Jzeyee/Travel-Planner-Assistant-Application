@@ -1,0 +1,108 @@
+{
+    "wong@gmail.com": {
+        "name": "wong",
+        "password": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f",
+        "created_at": "2025-12-08T21:24:56.343613",
+        "preferences": {
+            "theme": "light",
+            "currency": "USD",
+            "language": "English"
+        }
+    },
+    "hew@gmail.com": {
+        "name": "hew",
+        "password": "3c88f6143f80f11bcca3692f39e132ae51b2c1f648af9651ebbad0bcf2916311",
+        "created_at": "2025-12-16T19:32:39.039297"
+    },
+    "xinying@gmail.com": {
+        "personal_info": {
+            "full_name": "xinying",
+            "email": "xinying@gmail.com",
+            "phone": "0183182324",
+            "address": "Titi",
+            "nationality": "Malaysia",
+            "date_of_birth": "2007-07-04"
+        },
+        "password": "bdbb1ac5406b961a04023b0d0d80d189c775ffe69a4a3f0dceac016eadbe27b6",
+        "created_at": "2025-12-17T12:54:33.869915",
+        "bookings": []
+    },
+    "wxy@gmail.com": {
+        "personal_info": {
+            "full_name": "wong",
+            "email": "wxy@gmail.com",
+            "phone": "989497",
+            "address": "q8shj",
+            "nationality": "Canada",
+            "date_of_birth": "1268-09-09"
+        },
+        "password": "68f2cd8e1d59ceb39c3ff5071a72f3c00cd685485fe9baac3d2c5d4eb89c2a8a",
+        "created_at": "2025-12-18T12:22:07.047638",
+        "bookings": []
+    },
+    "ali@gmail.com": {
+        "personal_info": {
+            "full_name": "ali",
+            "email": "ali@gmail.com",
+            "phone": "",
+            "address": "",
+            "nationality": "",
+            "date_of_birth": ""
+        },
+        "password": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f",
+        "created_at": "2025-12-18T15:34:44.883731",
+        "bookings": []
+    },
+    "abu@gmail.com": {
+        "personal_info": {
+            "full_name": "abu",
+            "email": "abu@gmail.com",
+            "phone": "",
+            "address": "",
+            "nationality": "",
+            "date_of_birth": ""
+        },
+        "password": "08ddf7edae4693816ef0a396ff3c64849e6ab3819703289dabcd6779bd6fe4a3",
+        "created_at": "2025-12-18T15:36:33.559366",
+        "bookings": []
+    },
+    "we@gmail.com": {
+        "personal_info": {
+            "full_name": "we",
+            "email": "we@gmail.com",
+            "phone": "",
+            "address": "",
+            "nationality": "",
+            "date_of_birth": ""
+        },
+        "password": "f14f286ca435d1fa3b9d8041e8f06aa0af7ab28ea8edcd7e11fd485a100b632b",
+        "created_at": "2025-12-18T16:32:15.761456",
+        "bookings": []
+    },
+    "www@gmail.com": {
+        "personal_info": {
+            "full_name": "www",
+            "email": "www@gmail.com",
+            "phone": "",
+            "address": "",
+            "nationality": "",
+            "date_of_birth": ""
+        },
+        "password": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f",
+        "created_at": "2025-12-18T18:00:49.344322",
+        "bookings": []
+    },
+    "waikin@gmail.com": {
+        "personal_info": {
+            "full_name": "waikin",
+            "email": "waikin@gmail.com",
+            "phone": "",
+            "address": "",
+            "nationality": "",
+            "date_of_birth": ""
+        },
+        "password": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f",
+        "created_at": "2025-12-18T18:44:43.755877",
+        "bookings": []
+    }
+}
